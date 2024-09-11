@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimLogic", "SimLogic\SimLogic.csproj", "{1B44EC6D-3637-459E-AB58-CC734EBFF241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBoard", "CircuitBoard\CircuitBoard.csproj", "{E45505FF-BAE8-475C-ACB0-AFA9CB5C11A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B44EC6D-3637-459E-AB58-CC734EBFF241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B44EC6D-3637-459E-AB58-CC734EBFF241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B44EC6D-3637-459E-AB58-CC734EBFF241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B44EC6D-3637-459E-AB58-CC734EBFF241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45505FF-BAE8-475C-ACB0-AFA9CB5C11A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45505FF-BAE8-475C-ACB0-AFA9CB5C11A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45505FF-BAE8-475C-ACB0-AFA9CB5C11A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45505FF-BAE8-475C-ACB0-AFA9CB5C11A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E39DC0-1986-4B0C-A9B2-80233A477E10}
+	EndGlobalSection
+EndGlobal
